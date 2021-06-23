@@ -1,2 +1,2 @@
 # NEW-PBBG
-A PBBG. Nothing of note yet.
+A PBBG (Persistent Browser-Based Game). Nothing of note yet.
